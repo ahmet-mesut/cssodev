@@ -1,0 +1,31 @@
+body {
+    color: black;
+    background: #DAC6B5;
+    text-align: center;
+    
+}
+.list {
+    list-style: none;
+    color: black;
+}
+
+.list li {
+    display: inline;
+
+}
+.main {
+    background-color: #BB6464;
+    border-radius: 25px;
+    width: 400px;
+    margin: auto;
+}
+.header {
+        padding-top: 0%;
+        padding: 0.2%; 
+        background-color: #BB6464;
+        height: 100px;
+}
+
+.item {
+    margin-right: 1cm; 
+}
